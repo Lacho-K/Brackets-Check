@@ -1,0 +1,11 @@
+C:\Users\kolev\source\repos\prenthesies\prenthesies\bin\Debug\netcoreapp3.0\prenthesies.exe
+C:\Users\kolev\source\repos\prenthesies\prenthesies\bin\Debug\netcoreapp3.0\prenthesies.deps.json
+C:\Users\kolev\source\repos\prenthesies\prenthesies\bin\Debug\netcoreapp3.0\prenthesies.runtimeconfig.json
+C:\Users\kolev\source\repos\prenthesies\prenthesies\bin\Debug\netcoreapp3.0\prenthesies.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\prenthesies\prenthesies\bin\Debug\netcoreapp3.0\prenthesies.dll
+C:\Users\kolev\source\repos\prenthesies\prenthesies\bin\Debug\netcoreapp3.0\prenthesies.pdb
+C:\Users\kolev\source\repos\prenthesies\prenthesies\obj\Debug\netcoreapp3.0\prenthesies.csprojAssemblyReference.cache
+C:\Users\kolev\source\repos\prenthesies\prenthesies\obj\Debug\netcoreapp3.0\prenthesies.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\prenthesies\prenthesies\obj\Debug\netcoreapp3.0\prenthesies.AssemblyInfo.cs
+C:\Users\kolev\source\repos\prenthesies\prenthesies\obj\Debug\netcoreapp3.0\prenthesies.dll
+C:\Users\kolev\source\repos\prenthesies\prenthesies\obj\Debug\netcoreapp3.0\prenthesies.pdb
